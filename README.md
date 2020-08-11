@@ -10,7 +10,7 @@ The UI Elements in the app have been developed using Google's Material Design Li
 
 Firstly, make sure you have npm and NodeJS installed on your system. You would also need a recent version of MongoDB(3.x) installed.  
 
-1. Clone this repo using `git clone https://github.com/pranay-jain/FootballTransferTracker.git`
+1. Clone this repo`
 2. Install all the dependencies using `npm install`
 3. In config.js, replace the values with your credentials for the Twitter API
 3. Go to the mongo folder and run the MongoDB using `mongod`
